@@ -1,0 +1,23 @@
+{
+  "name": "console-debug",
+  "version": "1.0.0",
+  "authors": [
+    "ayming"
+  ],
+  "description": "Custom console which can be turned on or off",
+  "main": "console.debug.js",
+  "keywords": [
+    "js",
+    "console",
+    "debug"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ]
+}
